@@ -1,0 +1,6 @@
+{
+  "name": "QUẢN TRỊ LỚP HỌC 6A4",
+  "description": "Hệ thống Quản trị Lớp học dành cho Giáo viên chủ nhiệm - Trường TH-THCS Nguyễn Văn Tiệp",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
